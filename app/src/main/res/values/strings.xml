@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="edtUsername">Nom d\'utilisateur</string>
+    <string name="edtPassword">Mot de passe</string>
+    <string name="bttConnexion">Connexion</string>
+    <string name="tvNoAccount">Vous n\'avez pas de compte ?</string>
+    <string name="tvForgotPassword">Mot de passe oublié ?</string>
+    <string name="edtMailForgotPassword">Mail de votre compte</string>
+    <string name="bttSendForgotPassword">Envoyer</string>
+
+    <string name="edtPseudoRegistration">Pseudo</string>
+    <string name="edtMailRegistration">Adresse mail</string>
+    <string name="edtPsswdRegistration">Mot de passe</string>
+    <string name="edtConfirmPsswdRegistration">Confirmation du mot de passe</string>
+    <string name="bttCancelRegistration">Annuler</string>
+    <string name="bttValidateRegistration">Valider</string>
+    <string name="ingr_dients">Ingrédients</string>
+</resources>
